@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+###### Some pics from the App Website
+![](website/aboutuspage.PNG)
+
+![](website/signUpPage.PNG)
+
+![](website/addFriend.PNG)
+
+![](website/listFriends.PNG)
